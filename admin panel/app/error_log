@@ -1,0 +1,12 @@
+[19-Dec-2022 03:29:09 UTC] PHP Warning:  Undefined array key "admin_name" in /home/shikifuj/public_html/admin panel/app/room.php on line 3
+[19-Dec-2022 10:29:09 Asia/Jakarta] PHP Warning:  Undefined array key "admin_name" in /home/shikifuj/public_html/admin panel/app/room.php on line 143
+[19-Dec-2022 03:30:27 UTC] PHP Warning:  Undefined array key "admin_name" in /home/shikifuj/public_html/admin panel/app/index.php on line 3
+[19-Dec-2022 10:30:27 Asia/Jakarta] PHP Warning:  Undefined array key "admin_name" in /home/shikifuj/public_html/admin panel/app/index.php on line 153
+[19-Dec-2022 03:30:30 UTC] PHP Warning:  Undefined array key "admin_name" in /home/shikifuj/public_html/admin panel/app/room.php on line 3
+[19-Dec-2022 10:30:30 Asia/Jakarta] PHP Warning:  Undefined array key "admin_name" in /home/shikifuj/public_html/admin panel/app/room.php on line 143
+[19-Dec-2022 03:33:39 UTC] PHP Warning:  Undefined array key "admin_name" in /home/shikifuj/public_html/admin panel/app/edit_room.php on line 3
+[19-Dec-2022 10:33:39 Asia/Jakarta] PHP Warning:  Undefined array key "admin_name" in /home/shikifuj/public_html/admin panel/app/edit_room.php on line 139
+[19-Dec-2022 03:33:44 UTC] PHP Warning:  Undefined array key "admin_name" in /home/shikifuj/public_html/admin panel/app/edit_room.php on line 3
+[19-Dec-2022 10:33:44 Asia/Jakarta] PHP Warning:  Undefined array key "admin_name" in /home/shikifuj/public_html/admin panel/app/edit_room.php on line 139
+[21-Dec-2022 09:16:31 UTC] PHP Warning:  Undefined array key "admin_name" in /home/shikifuj/public_html/admin panel/app/index.php on line 3
+[21-Dec-2022 16:16:31 Asia/Jakarta] PHP Warning:  Undefined array key "admin_name" in /home/shikifuj/public_html/admin panel/app/index.php on line 153

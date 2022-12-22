@@ -1,0 +1,84 @@
+[18-Dec-2022 06:26:08 UTC] PHP Warning:  Undefined variable $nama in /home/shikifuj/public_html/view/profile.php on line 96
+[18-Dec-2022 06:26:08 UTC] PHP Warning:  Undefined variable $phone in /home/shikifuj/public_html/view/profile.php on line 100
+[18-Dec-2022 06:26:08 UTC] PHP Warning:  Undefined variable $ttl in /home/shikifuj/public_html/view/profile.php on line 104
+[18-Dec-2022 06:26:08 UTC] PHP Warning:  Array to string conversion in /home/shikifuj/public_html/view/profile.php on line 108
+[18-Dec-2022 06:26:08 UTC] PHP Warning:  Undefined variable $kota in /home/shikifuj/public_html/view/profile.php on line 112
+[18-Dec-2022 06:26:08 UTC] PHP Warning:  Undefined variable $kecamatan in /home/shikifuj/public_html/view/profile.php on line 116
+[18-Dec-2022 06:26:08 UTC] PHP Warning:  Undefined variable $kelurahan in /home/shikifuj/public_html/view/profile.php on line 120
+[18-Dec-2022 06:26:08 UTC] PHP Warning:  Undefined variable $photo in /home/shikifuj/public_html/view/profile.php on line 144
+[18-Dec-2022 06:26:08 UTC] PHP Warning:  Undefined variable $email in /home/shikifuj/public_html/view/profile.php on line 226
+[18-Dec-2022 06:26:34 UTC] PHP Warning:  Undefined variable $nama in /home/shikifuj/public_html/view/profile.php on line 96
+[18-Dec-2022 06:26:34 UTC] PHP Warning:  Undefined variable $phone in /home/shikifuj/public_html/view/profile.php on line 100
+[18-Dec-2022 06:26:34 UTC] PHP Warning:  Undefined variable $ttl in /home/shikifuj/public_html/view/profile.php on line 104
+[18-Dec-2022 06:26:34 UTC] PHP Warning:  Array to string conversion in /home/shikifuj/public_html/view/profile.php on line 108
+[18-Dec-2022 06:26:34 UTC] PHP Warning:  Undefined variable $kota in /home/shikifuj/public_html/view/profile.php on line 112
+[18-Dec-2022 06:26:34 UTC] PHP Warning:  Undefined variable $kecamatan in /home/shikifuj/public_html/view/profile.php on line 116
+[18-Dec-2022 06:26:34 UTC] PHP Warning:  Undefined variable $kelurahan in /home/shikifuj/public_html/view/profile.php on line 120
+[18-Dec-2022 06:26:34 UTC] PHP Warning:  Undefined variable $photo in /home/shikifuj/public_html/view/profile.php on line 144
+[18-Dec-2022 06:26:34 UTC] PHP Warning:  Undefined variable $email in /home/shikifuj/public_html/view/profile.php on line 226
+[18-Dec-2022 06:26:43 UTC] PHP Warning:  Undefined variable $nama in /home/shikifuj/public_html/view/profile.php on line 96
+[18-Dec-2022 06:26:43 UTC] PHP Warning:  Undefined variable $phone in /home/shikifuj/public_html/view/profile.php on line 100
+[18-Dec-2022 06:26:43 UTC] PHP Warning:  Undefined variable $ttl in /home/shikifuj/public_html/view/profile.php on line 104
+[18-Dec-2022 06:26:43 UTC] PHP Warning:  Array to string conversion in /home/shikifuj/public_html/view/profile.php on line 108
+[18-Dec-2022 06:26:43 UTC] PHP Warning:  Undefined variable $kota in /home/shikifuj/public_html/view/profile.php on line 112
+[18-Dec-2022 06:26:43 UTC] PHP Warning:  Undefined variable $kecamatan in /home/shikifuj/public_html/view/profile.php on line 116
+[18-Dec-2022 06:26:43 UTC] PHP Warning:  Undefined variable $kelurahan in /home/shikifuj/public_html/view/profile.php on line 120
+[18-Dec-2022 06:26:43 UTC] PHP Warning:  Undefined variable $photo in /home/shikifuj/public_html/view/profile.php on line 144
+[18-Dec-2022 06:26:43 UTC] PHP Warning:  Undefined variable $email in /home/shikifuj/public_html/view/profile.php on line 226
+[18-Dec-2022 06:27:32 UTC] PHP Warning:  Undefined variable $nama in /home/shikifuj/public_html/view/profile.php on line 96
+[18-Dec-2022 06:27:32 UTC] PHP Warning:  Undefined variable $phone in /home/shikifuj/public_html/view/profile.php on line 100
+[18-Dec-2022 06:27:32 UTC] PHP Warning:  Undefined variable $ttl in /home/shikifuj/public_html/view/profile.php on line 104
+[18-Dec-2022 06:27:32 UTC] PHP Warning:  Array to string conversion in /home/shikifuj/public_html/view/profile.php on line 108
+[18-Dec-2022 06:27:32 UTC] PHP Warning:  Undefined variable $kota in /home/shikifuj/public_html/view/profile.php on line 112
+[18-Dec-2022 06:27:32 UTC] PHP Warning:  Undefined variable $kecamatan in /home/shikifuj/public_html/view/profile.php on line 116
+[18-Dec-2022 06:27:32 UTC] PHP Warning:  Undefined variable $kelurahan in /home/shikifuj/public_html/view/profile.php on line 120
+[18-Dec-2022 06:27:32 UTC] PHP Warning:  Undefined variable $photo in /home/shikifuj/public_html/view/profile.php on line 144
+[18-Dec-2022 06:27:32 UTC] PHP Warning:  Undefined variable $email in /home/shikifuj/public_html/view/profile.php on line 226
+[18-Dec-2022 07:38:23 UTC] PHP Warning:  Undefined variable $nama in /home/shikifuj/public_html/view/profile.php on line 96
+[18-Dec-2022 07:38:23 UTC] PHP Warning:  Undefined variable $phone in /home/shikifuj/public_html/view/profile.php on line 100
+[18-Dec-2022 07:38:23 UTC] PHP Warning:  Undefined variable $ttl in /home/shikifuj/public_html/view/profile.php on line 104
+[18-Dec-2022 07:38:23 UTC] PHP Warning:  Array to string conversion in /home/shikifuj/public_html/view/profile.php on line 108
+[18-Dec-2022 07:38:23 UTC] PHP Warning:  Undefined variable $kota in /home/shikifuj/public_html/view/profile.php on line 112
+[18-Dec-2022 07:38:23 UTC] PHP Warning:  Undefined variable $kecamatan in /home/shikifuj/public_html/view/profile.php on line 116
+[18-Dec-2022 07:38:23 UTC] PHP Warning:  Undefined variable $kelurahan in /home/shikifuj/public_html/view/profile.php on line 120
+[18-Dec-2022 07:38:23 UTC] PHP Warning:  Undefined variable $photo in /home/shikifuj/public_html/view/profile.php on line 144
+[18-Dec-2022 07:38:23 UTC] PHP Warning:  Undefined variable $email in /home/shikifuj/public_html/view/profile.php on line 226
+[18-Dec-2022 10:30:32 UTC] PHP Warning:  Undefined array key "user_id" in /home/shikifuj/public_html/view/payment.php on line 3
+[18-Dec-2022 10:30:32 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/shikifuj/public_html/view/payment.php:60
+Stack trace:
+#0 /home/shikifuj/public_html/view/payment.php(60): mysqli_fetch_array()
+#1 {main}
+  thrown in /home/shikifuj/public_html/view/payment.php on line 60
+[18-Dec-2022 10:41:48 UTC] PHP Warning:  Undefined variable $nama in /home/shikifuj/public_html/view/profile.php on line 96
+[18-Dec-2022 10:41:48 UTC] PHP Warning:  Undefined variable $phone in /home/shikifuj/public_html/view/profile.php on line 100
+[18-Dec-2022 10:41:48 UTC] PHP Warning:  Undefined variable $ttl in /home/shikifuj/public_html/view/profile.php on line 104
+[18-Dec-2022 10:41:48 UTC] PHP Warning:  Array to string conversion in /home/shikifuj/public_html/view/profile.php on line 108
+[18-Dec-2022 10:41:48 UTC] PHP Warning:  Undefined variable $kota in /home/shikifuj/public_html/view/profile.php on line 112
+[18-Dec-2022 10:41:48 UTC] PHP Warning:  Undefined variable $kecamatan in /home/shikifuj/public_html/view/profile.php on line 116
+[18-Dec-2022 10:41:48 UTC] PHP Warning:  Undefined variable $kelurahan in /home/shikifuj/public_html/view/profile.php on line 120
+[18-Dec-2022 10:41:48 UTC] PHP Warning:  Undefined variable $photo in /home/shikifuj/public_html/view/profile.php on line 144
+[18-Dec-2022 10:41:48 UTC] PHP Warning:  Undefined variable $email in /home/shikifuj/public_html/view/profile.php on line 226
+[18-Dec-2022 23:52:35 UTC] PHP Warning:  Undefined array key "user_id" in /home/shikifuj/public_html/view/transaction.php on line 3
+[19-Dec-2022 06:52:35 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/shikifuj/public_html/view/transaction.php:66
+Stack trace:
+#0 /home/shikifuj/public_html/view/transaction.php(66): mysqli_fetch_array()
+#1 {main}
+  thrown in /home/shikifuj/public_html/view/transaction.php on line 66
+[19-Dec-2022 03:30:43 UTC] PHP Warning:  Undefined array key "user_id" in /home/shikifuj/public_html/view/transaction.php on line 3
+[19-Dec-2022 10:30:43 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/shikifuj/public_html/view/transaction.php:66
+Stack trace:
+#0 /home/shikifuj/public_html/view/transaction.php(66): mysqli_fetch_array()
+#1 {main}
+  thrown in /home/shikifuj/public_html/view/transaction.php on line 66
+[19-Dec-2022 09:42:11 UTC] PHP Warning:  Undefined array key "room_id" in /home/shikifuj/public_html/view/book.php on line 3
+[19-Dec-2022 16:42:11 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/shikifuj/public_html/view/book.php:41
+Stack trace:
+#0 /home/shikifuj/public_html/view/book.php(41): mysqli_fetch_array()
+#1 {main}
+  thrown in /home/shikifuj/public_html/view/book.php on line 41
+[19-Dec-2022 09:44:11 UTC] PHP Warning:  Undefined array key "user_id" in /home/shikifuj/public_html/view/transaction.php on line 3
+[19-Dec-2022 16:44:11 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/shikifuj/public_html/view/transaction.php:66
+Stack trace:
+#0 /home/shikifuj/public_html/view/transaction.php(66): mysqli_fetch_array()
+#1 {main}
+  thrown in /home/shikifuj/public_html/view/transaction.php on line 66

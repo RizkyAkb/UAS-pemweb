@@ -1,0 +1,268 @@
+[12-Dec-2022 07:42:07 UTC] PHP Warning:  require(view/header.php): Failed to open stream: No such file or directory in /home/shikifuj/public_html/index.php on line 37
+[12-Dec-2022 07:42:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'view/header.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shikifuj/public_html/index.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/shikifuj/public_html/index.php on line 37
+[12-Dec-2022 07:42:16 UTC] PHP Warning:  require(view/header.php): Failed to open stream: No such file or directory in /home/shikifuj/public_html/index.php on line 37
+[12-Dec-2022 07:42:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'view/header.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shikifuj/public_html/index.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/shikifuj/public_html/index.php on line 37
+[12-Dec-2022 07:43:19 UTC] PHP Warning:  require(view/header.php): Failed to open stream: No such file or directory in /home/shikifuj/public_html/index.php on line 37
+[12-Dec-2022 07:43:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'view/header.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shikifuj/public_html/index.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/shikifuj/public_html/index.php on line 37
+[12-Dec-2022 07:50:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/shikifuj/public_html/controller/koneksi.php:17
+Stack trace:
+#0 /home/shikifuj/public_html/view/header.php(8): include()
+#1 /home/shikifuj/public_html/index.php(37): require('/home/shikifuj/...')
+#2 {main}
+  thrown in /home/shikifuj/public_html/controller/koneksi.php on line 17
+[12-Dec-2022 07:50:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/shikifuj/public_html/controller/koneksi.php:17
+Stack trace:
+#0 /home/shikifuj/public_html/view/header.php(8): include()
+#1 /home/shikifuj/public_html/index.php(37): require('/home/shikifuj/...')
+#2 {main}
+  thrown in /home/shikifuj/public_html/controller/koneksi.php on line 17
+[12-Dec-2022 07:51:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/shikifuj/public_html/controller/koneksi.php:17
+Stack trace:
+#0 /home/shikifuj/public_html/view/header.php(8): include()
+#1 /home/shikifuj/public_html/index.php(37): require('/home/shikifuj/...')
+#2 {main}
+  thrown in /home/shikifuj/public_html/controller/koneksi.php on line 17
+[12-Dec-2022 07:54:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/shikifuj/public_html/controller/koneksi.php:17
+Stack trace:
+#0 /home/shikifuj/public_html/view/header.php(8): include()
+#1 /home/shikifuj/public_html/index.php(37): require('/home/shikifuj/...')
+#2 {main}
+  thrown in /home/shikifuj/public_html/controller/koneksi.php on line 17
+[12-Dec-2022 08:25:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/shikifuj/public_html/controller/koneksi.php:17
+Stack trace:
+#0 /home/shikifuj/public_html/view/header.php(8): include()
+#1 /home/shikifuj/public_html/index.php(37): require('/home/shikifuj/...')
+#2 {main}
+  thrown in /home/shikifuj/public_html/controller/koneksi.php on line 17
+[12-Dec-2022 08:47:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/shikifuj/public_html/controller/koneksi.php:17
+Stack trace:
+#0 /home/shikifuj/public_html/view/header.php(8): include()
+#1 /home/shikifuj/public_html/index.php(37): require('/home/shikifuj/...')
+#2 {main}
+  thrown in /home/shikifuj/public_html/controller/koneksi.php on line 17
+[12-Dec-2022 08:54:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/shikifuj/public_html/controller/koneksi.php:17
+Stack trace:
+#0 /home/shikifuj/public_html/view/header.php(8): include()
+#1 /home/shikifuj/public_html/index.php(37): require('/home/shikifuj/...')
+#2 {main}
+  thrown in /home/shikifuj/public_html/controller/koneksi.php on line 17
+[12-Dec-2022 08:54:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/shikifuj/public_html/controller/koneksi.php:17
+Stack trace:
+#0 /home/shikifuj/public_html/view/header.php(8): include()
+#1 /home/shikifuj/public_html/index.php(37): require('/home/shikifuj/...')
+#2 {main}
+  thrown in /home/shikifuj/public_html/controller/koneksi.php on line 17
+[12-Dec-2022 08:54:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/shikifuj/public_html/controller/koneksi.php:17
+Stack trace:
+#0 /home/shikifuj/public_html/view/header.php(8): include()
+#1 /home/shikifuj/public_html/index.php(37): require('/home/shikifuj/...')
+#2 {main}
+  thrown in /home/shikifuj/public_html/controller/koneksi.php on line 17
+[12-Dec-2022 08:54:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/shikifuj/public_html/controller/koneksi.php:17
+Stack trace:
+#0 /home/shikifuj/public_html/view/header.php(8): include()
+#1 /home/shikifuj/public_html/index.php(37): require('/home/shikifuj/...')
+#2 {main}
+  thrown in /home/shikifuj/public_html/controller/koneksi.php on line 17
+[12-Dec-2022 08:54:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/shikifuj/public_html/controller/koneksi.php:17
+Stack trace:
+#0 /home/shikifuj/public_html/view/header.php(8): include()
+#1 /home/shikifuj/public_html/index.php(37): require('/home/shikifuj/...')
+#2 {main}
+  thrown in /home/shikifuj/public_html/controller/koneksi.php on line 17
+[12-Dec-2022 08:54:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/shikifuj/public_html/controller/koneksi.php:17
+Stack trace:
+#0 /home/shikifuj/public_html/view/header.php(8): include()
+#1 /home/shikifuj/public_html/index.php(37): require('/home/shikifuj/...')
+#2 {main}
+  thrown in /home/shikifuj/public_html/controller/koneksi.php on line 17
+[12-Dec-2022 09:02:24 UTC] PHP Warning:  require(/home/shikifuj/view/header.php): Failed to open stream: No such file or directory in /home/shikifuj/public_html/index.php on line 36
+[12-Dec-2022 09:02:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shikifuj/view/header.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shikifuj/public_html/index.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/shikifuj/public_html/index.php on line 36
+[12-Dec-2022 09:21:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/shikifuj/public_html/controller/koneksi.php:17
+Stack trace:
+#0 /home/shikifuj/public_html/view/header.php(8): include()
+#1 /home/shikifuj/public_html/index.php(36): require('/home/shikifuj/...')
+#2 {main}
+  thrown in /home/shikifuj/public_html/controller/koneksi.php on line 17
+[12-Dec-2022 09:21:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/shikifuj/public_html/controller/koneksi.php:17
+Stack trace:
+#0 /home/shikifuj/public_html/view/header.php(8): include()
+#1 /home/shikifuj/public_html/index.php(36): require('/home/shikifuj/...')
+#2 {main}
+  thrown in /home/shikifuj/public_html/controller/koneksi.php on line 17
+[12-Dec-2022 09:22:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/shikifuj/public_html/controller/koneksi.php:17
+Stack trace:
+#0 /home/shikifuj/public_html/view/header.php(8): include()
+#1 /home/shikifuj/public_html/index.php(37): require('/home/shikifuj/...')
+#2 {main}
+  thrown in /home/shikifuj/public_html/controller/koneksi.php on line 17
+[12-Dec-2022 09:23:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/shikifuj/public_html/controller/koneksi.php:17
+Stack trace:
+#0 /home/shikifuj/public_html/view/header.php(8): include()
+#1 /home/shikifuj/public_html/index.php(37): require('/home/shikifuj/...')
+#2 {main}
+  thrown in /home/shikifuj/public_html/controller/koneksi.php on line 17
+[12-Dec-2022 09:32:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/shikifuj/public_html/controller/koneksi.php:17
+Stack trace:
+#0 /home/shikifuj/public_html/view/header.php(8): include()
+#1 /home/shikifuj/public_html/index.php(37): require('/home/shikifuj/...')
+#2 {main}
+  thrown in /home/shikifuj/public_html/controller/koneksi.php on line 17
+[12-Dec-2022 09:33:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/shikifuj/public_html/controller/koneksi.php:17
+Stack trace:
+#0 /home/shikifuj/public_html/view/header.php(8): include()
+#1 /home/shikifuj/public_html/index.php(37): require('/home/shikifuj/...')
+#2 {main}
+  thrown in /home/shikifuj/public_html/controller/koneksi.php on line 17
+[12-Dec-2022 09:33:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/shikifuj/public_html/controller/koneksi.php:17
+Stack trace:
+#0 /home/shikifuj/public_html/view/header.php(8): include()
+#1 /home/shikifuj/public_html/index.php(37): require('/home/shikifuj/...')
+#2 {main}
+  thrown in /home/shikifuj/public_html/controller/koneksi.php on line 17
+[12-Dec-2022 09:33:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/shikifuj/public_html/controller/koneksi.php:17
+Stack trace:
+#0 /home/shikifuj/public_html/view/header.php(8): include()
+#1 /home/shikifuj/public_html/index.php(37): require('/home/shikifuj/...')
+#2 {main}
+  thrown in /home/shikifuj/public_html/controller/koneksi.php on line 17
+[12-Dec-2022 09:33:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/shikifuj/public_html/controller/koneksi.php:17
+Stack trace:
+#0 /home/shikifuj/public_html/view/header.php(8): include()
+#1 /home/shikifuj/public_html/index.php(37): require('/home/shikifuj/...')
+#2 {main}
+  thrown in /home/shikifuj/public_html/controller/koneksi.php on line 17
+[12-Dec-2022 09:33:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/shikifuj/public_html/controller/koneksi.php:17
+Stack trace:
+#0 /home/shikifuj/public_html/view/header.php(8): include()
+#1 /home/shikifuj/public_html/index.php(37): require('/home/shikifuj/...')
+#2 {main}
+  thrown in /home/shikifuj/public_html/controller/koneksi.php on line 17
+[12-Dec-2022 09:34:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/shikifuj/public_html/controller/koneksi.php:17
+Stack trace:
+#0 /home/shikifuj/public_html/view/header.php(8): include()
+#1 /home/shikifuj/public_html/index.php(37): require('/home/shikifuj/...')
+#2 {main}
+  thrown in /home/shikifuj/public_html/controller/koneksi.php on line 17
+[12-Dec-2022 09:34:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/shikifuj/public_html/controller/koneksi.php:17
+Stack trace:
+#0 /home/shikifuj/public_html/view/header.php(8): include()
+#1 /home/shikifuj/public_html/index.php(37): require('/home/shikifuj/...')
+#2 {main}
+  thrown in /home/shikifuj/public_html/controller/koneksi.php on line 17
+[12-Dec-2022 09:35:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/shikifuj/public_html/controller/koneksi.php:17
+Stack trace:
+#0 /home/shikifuj/public_html/view/header.php(8): include()
+#1 /home/shikifuj/public_html/index.php(37): require('/home/shikifuj/...')
+#2 {main}
+  thrown in /home/shikifuj/public_html/controller/koneksi.php on line 17
+[12-Dec-2022 09:35:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/shikifuj/public_html/controller/koneksi.php:17
+Stack trace:
+#0 /home/shikifuj/public_html/view/header.php(8): include()
+#1 /home/shikifuj/public_html/index.php(37): require('/home/shikifuj/...')
+#2 {main}
+  thrown in /home/shikifuj/public_html/controller/koneksi.php on line 17
+[12-Dec-2022 09:42:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/shikifuj/public_html/controller/koneksi.php:17
+Stack trace:
+#0 /home/shikifuj/public_html/view/header.php(8): include()
+#1 /home/shikifuj/public_html/index.php(37): require('/home/shikifuj/...')
+#2 {main}
+  thrown in /home/shikifuj/public_html/controller/koneksi.php on line 17
+[12-Dec-2022 09:42:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/shikifuj/public_html/controller/koneksi.php:17
+Stack trace:
+#0 /home/shikifuj/public_html/view/header.php(8): include()
+#1 /home/shikifuj/public_html/index.php(37): require('/home/shikifuj/...')
+#2 {main}
+  thrown in /home/shikifuj/public_html/controller/koneksi.php on line 17
+[12-Dec-2022 13:41:39 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'shikifuj_shikifujin'@'localhost' to database 'hotel_shikifujin' in /home/shikifuj/public_html/controller/koneksi.php on line 17
+[12-Dec-2022 13:47:13 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'shikifuj_shikifujin'@'localhost' to database 'shikifuj_indonesia' in /home/shikifuj/public_html/controller/koneksi_alamat.php on line 8
+[12-Dec-2022 13:49:21 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'shikifuj_shikifujin'@'localhost' to database 'shikifuj_indonesia' in /home/shikifuj/public_html/controller/koneksi_alamat.php on line 8
+[12-Dec-2022 13:49:23 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'shikifuj_shikifujin'@'localhost' to database 'shikifuj_indonesia' in /home/shikifuj/public_html/controller/koneksi_alamat.php on line 8
+[12-Dec-2022 13:49:25 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'shikifuj_shikifujin'@'localhost' to database 'shikifuj_indonesia' in /home/shikifuj/public_html/controller/koneksi_alamat.php on line 8
+[12-Dec-2022 13:49:32 UTC] PHP Warning:  require_once(/home/shikifuj/controller/koneksi.php): Failed to open stream: No such file or directory in /home/shikifuj/public_html/index.php on line 38
+[12-Dec-2022 13:49:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shikifuj/controller/koneksi.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shikifuj/public_html/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/shikifuj/public_html/index.php on line 38
+[12-Dec-2022 13:50:23 UTC] PHP Warning:  require_once(/home/shikifuj/controller/koneksi.php): Failed to open stream: No such file or directory in /home/shikifuj/public_html/index.php on line 38
+[12-Dec-2022 13:50:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shikifuj/controller/koneksi.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shikifuj/public_html/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/shikifuj/public_html/index.php on line 38
+[12-Dec-2022 13:55:07 UTC] PHP Warning:  require_once(/home/shikifuj/controller/koneksi.php): Failed to open stream: No such file or directory in /home/shikifuj/public_html/index.php on line 38
+[12-Dec-2022 13:55:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shikifuj/controller/koneksi.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shikifuj/public_html/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/shikifuj/public_html/index.php on line 38
+[12-Dec-2022 13:56:53 UTC] PHP Warning:  require_once(/home/shikifuj/controller/koneksi.php): Failed to open stream: No such file or directory in /home/shikifuj/public_html/index.php on line 38
+[12-Dec-2022 13:56:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shikifuj/controller/koneksi.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shikifuj/public_html/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/shikifuj/public_html/index.php on line 38
+[12-Dec-2022 13:56:59 UTC] PHP Warning:  require_once(/home/shikifuj/controller/koneksi.php): Failed to open stream: No such file or directory in /home/shikifuj/public_html/index.php on line 38
+[12-Dec-2022 13:56:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shikifuj/controller/koneksi.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shikifuj/public_html/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/shikifuj/public_html/index.php on line 38
+[12-Dec-2022 19:29:37 UTC] PHP Warning:  require_once(/home/shikifuj/controller/koneksi.php): Failed to open stream: No such file or directory in /home/shikifuj/public_html/index.php on line 38
+[12-Dec-2022 19:29:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shikifuj/controller/koneksi.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shikifuj/public_html/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/shikifuj/public_html/index.php on line 38
+[12-Dec-2022 20:35:54 UTC] PHP Warning:  require_once(/home/shikifuj/controller/koneksi.php): Failed to open stream: No such file or directory in /home/shikifuj/public_html/index.php on line 38
+[12-Dec-2022 20:35:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shikifuj/controller/koneksi.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shikifuj/public_html/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/shikifuj/public_html/index.php on line 38
+[12-Dec-2022 21:43:48 UTC] PHP Warning:  require_once(/home/shikifuj/controller/koneksi.php): Failed to open stream: No such file or directory in /home/shikifuj/public_html/index.php on line 38
+[12-Dec-2022 21:43:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shikifuj/controller/koneksi.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shikifuj/public_html/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/shikifuj/public_html/index.php on line 38
+[12-Dec-2022 23:56:09 UTC] PHP Warning:  require_once(/home/shikifuj/controller/koneksi.php): Failed to open stream: No such file or directory in /home/shikifuj/public_html/index.php on line 38
+[12-Dec-2022 23:56:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shikifuj/controller/koneksi.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shikifuj/public_html/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/shikifuj/public_html/index.php on line 38
+[13-Dec-2022 00:26:27 UTC] PHP Warning:  require_once(/home/shikifuj/controller/koneksi.php): Failed to open stream: No such file or directory in /home/shikifuj/public_html/index.php on line 38
+[13-Dec-2022 00:26:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shikifuj/controller/koneksi.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shikifuj/public_html/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/shikifuj/public_html/index.php on line 38
+[13-Dec-2022 00:26:31 UTC] PHP Warning:  require_once(/home/shikifuj/controller/koneksi.php): Failed to open stream: No such file or directory in /home/shikifuj/public_html/index.php on line 38
+[13-Dec-2022 00:26:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shikifuj/controller/koneksi.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shikifuj/public_html/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/shikifuj/public_html/index.php on line 38
+[13-Dec-2022 00:28:34 UTC] PHP Warning:  require_once(/home/shikifuj/controller/koneksi.php): Failed to open stream: No such file or directory in /home/shikifuj/public_html/index.php on line 38
+[13-Dec-2022 00:28:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shikifuj/controller/koneksi.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shikifuj/public_html/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/shikifuj/public_html/index.php on line 38
+[13-Dec-2022 01:02:26 UTC] PHP Warning:  require_once(/home/shikifuj/controller/koneksi.php): Failed to open stream: No such file or directory in /home/shikifuj/public_html/index.php on line 38
+[13-Dec-2022 01:02:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shikifuj/controller/koneksi.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shikifuj/public_html/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/shikifuj/public_html/index.php on line 38
+[13-Dec-2022 01:43:01 UTC] PHP Warning:  require_once(/home/shikifuj/controller/koneksi.php): Failed to open stream: No such file or directory in /home/shikifuj/public_html/index.php on line 38
+[13-Dec-2022 01:43:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shikifuj/controller/koneksi.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shikifuj/public_html/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/shikifuj/public_html/index.php on line 38
+[13-Dec-2022 02:30:47 UTC] PHP Warning:  require_once(/home/shikifuj/controller/koneksi.php): Failed to open stream: No such file or directory in /home/shikifuj/public_html/index.php on line 38
+[13-Dec-2022 02:30:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shikifuj/controller/koneksi.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shikifuj/public_html/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/shikifuj/public_html/index.php on line 38
