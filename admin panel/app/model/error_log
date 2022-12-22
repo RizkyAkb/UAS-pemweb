@@ -1,0 +1,4 @@
+[16-Dec-2022 09:26:33 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/shikifuj/public_html/admin panel/controller/koneksi.php on line 17
+[16-Dec-2022 09:28:06 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'shikifuj_shikifujin'@'localhost' to database 'hotel_shikifujin' in /home/shikifuj/public_html/admin panel/controller/koneksi.php on line 17
+[21-Dec-2022 09:16:29 UTC] PHP Warning:  Undefined array key "username" in /home/shikifuj/public_html/admin panel/app/model/login.php on line 9
+[21-Dec-2022 09:16:29 UTC] PHP Warning:  Undefined array key "password" in /home/shikifuj/public_html/admin panel/app/model/login.php on line 11
